@@ -89,6 +89,31 @@ food-calorie-estimation/
 - Historical trends
 - Category-wise analysis
 
+## Dataset 
+
+1)**🍽️ Food-101 Dataset**
+
+The Food-101 dataset is a large-scale benchmark for food image classification.
+It contains 101,000 images of food dishes divided into 101 different categories — each category includes 1,000 images (750 for training and 250 for testing).
+
+**official Download link :** https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
+
+**2)nutrition.csv**
+
+The nutrition.csv file contains structured nutritional information for food items used in this project.
+It helps in estimating calories and nutrients based on recognized food categories.
+
+
+dataset/
+ └── nutrition.csv
+
+
+-->During model execution:
+
+Food-101 provides the visual input for identifying the food item.
+nutrition.csv provides the nutritional metadata for calorie estimation.
+This hybrid approach improves accuracy by combining deep learning predictions with structured nutritional data.
+
 ## 📝 Note
 
 This project demonstrates the practical application of:
@@ -98,6 +123,7 @@ This project demonstrates the practical application of:
 - Interactive data visualization
 - Big Data analytics principles
 =======
+
 
 
 
