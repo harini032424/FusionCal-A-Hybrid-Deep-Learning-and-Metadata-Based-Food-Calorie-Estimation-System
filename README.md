@@ -2,7 +2,7 @@
 # 🍱 FusionCal-A-Hybrid-Deep-Learning-and-Metadata-Based-Food-Calorie-Estimation-System
 
 ## Project Overview
-An intelligent system that combines Deep Learning, Machine Learning, and Big Data technologies to estimate calorie content in food images. This project is designed for Big Data Analytics (BDA) course submission.
+An intelligent system that combines Deep Learning, Machine Learning, and Big Data technologies to estimate calorie content in food images.
 
 ## 🌟 Key Features
 
@@ -123,6 +123,7 @@ This project demonstrates the practical application of:
 - Interactive data visualization
 - Big Data analytics principles
 =======
+
 
 
 
