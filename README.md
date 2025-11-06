@@ -89,12 +89,6 @@ food-calorie-estimation/
 - Historical trends
 - Category-wise analysis
 
-## 👨‍💻 Developer
-
-- **Name**: [Your Name]
-- **Roll No**: [Your Roll No]
-- **Department**: [Your Department]
-
 ## 📝 Note
 
 This project demonstrates the practical application of:
@@ -104,6 +98,7 @@ This project demonstrates the practical application of:
 - Interactive data visualization
 - Big Data analytics principles
 =======
+
 
 
 
